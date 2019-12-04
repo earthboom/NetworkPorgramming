@@ -1,3 +1,8 @@
 #ignore
 Server/Debug/
 Server/Server/Debug/
+
+Networkpg/Debug/
+Networkpg/ipch/
+Networkpg/Networkpg/Debug/
+Networkpg/client/Debug/
